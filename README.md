@@ -54,6 +54,6 @@ El código está organizado en funciones para mejorar la legibilidad y el manten
 
 ---
 
-## 👨‍💻 Alumna 
+## 👨‍💻 Alumna Unir
 
-* **Jesica Grimaldi **
+* Jesica Grimaldi 
